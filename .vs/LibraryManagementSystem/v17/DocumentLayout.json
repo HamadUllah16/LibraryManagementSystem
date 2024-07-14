@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\university\\semester-6\\visual programming\\librarymanagementsystem\\librarymanagementsystem\\addloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\addloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addloans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\librarymanagementsystem\\databinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63812F6-F2BD-4641-ABA5-E0038CF49B62}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\databinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addLoans.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\addLoans.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\addLoans.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\addLoans.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\addLoans.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:06:21.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "addLoans.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\addLoans.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\addLoans.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\addLoans.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\addLoans.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:06:19.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loans.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Loans.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Loans.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Loans.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Loans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:06:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Home.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Home.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Home.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Home.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAD4vxwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:19:27.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Books.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Books.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Books.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:07:08.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Books.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Books.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Books.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Books.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Books.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:06:37.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addMember.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\addMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\addMember.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\addMember.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\addMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:54:22.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddBook.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBook.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:46:28.491Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Home.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Home.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Home.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:03:05.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addMember.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\addMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\addMember.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\addMember.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\addMember.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAD4v1IAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:56:20.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loans.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Loans.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Loans.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Loans.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Loans.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:04:33.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Members.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Members.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Members.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Members.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Members.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:52:06.003Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Members.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Members.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Members.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Members.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Members.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:00:48.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBook.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBook.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\AddBook.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAI0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:58:10.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Login.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Login.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Login.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:44:08.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Login.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:44:05.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dataBinding.cs",
+              "DocumentMoniker": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\dataBinding.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\dataBinding.cs",
+              "ToolTip": "D:\\University\\Semester-6\\Visual Programming\\LibraryManagementSystem\\LibraryManagementSystem\\dataBinding.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\dataBinding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAADXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:40:23.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
